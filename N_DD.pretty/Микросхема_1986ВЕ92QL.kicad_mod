@@ -1,4 +1,4 @@
-(module Микросхема_1986ВЕ92QL (layer F.Cu) (tedit 5C06A028)
+(module Микросхема_1986ВЕ92QL (layer F.Cu) (tedit 5C07F6EA)
   (fp_text reference DD2 (at 26.65 4.75) (layer F.SilkS) hide
     (effects (font (size 1 1) (thickness 0.15)))
   )
@@ -82,4 +82,9 @@
   (pad 51 smd rect (at 13.98 2.24) (size 0.25 1.5) (layers F.Cu F.Paste F.Mask))
   (pad 50 smd rect (at 14.48 2.24) (size 0.25 1.5) (layers F.Cu F.Paste F.Mask))
   (pad 49 smd rect (at 14.98 2.24) (size 0.25 1.5) (layers F.Cu F.Paste F.Mask))
+  (model ${N_3D}/LQFP-64-1.STEP
+    (offset (xyz 11.25 -7.75 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz -90 0 -90))
+  )
 )
