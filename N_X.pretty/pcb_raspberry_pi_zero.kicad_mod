@@ -1,4 +1,4 @@
-(module pcb_raspberry_pi_zero (layer F.Cu) (tedit 5C056088)
+(module pcb_raspberry_pi_zero (layer F.Cu) (tedit 5C07EC08)
   (fp_text reference X** (at -4.87 3.23) (layer F.SilkS) hide
     (effects (font (size 1.25 1) (thickness 0.2)))
   )
@@ -19,7 +19,7 @@
   (fp_text user 2 (at 0.13 -4.02 90) (layer F.SilkS)
     (effects (font (size 1.25 1) (thickness 0.2)))
   )
-  (fp_text user 39 (at 48.38 1.73 90) (layer F.SilkS)
+  (fp_text user 39 (at 48.38 2 90) (layer F.SilkS)
     (effects (font (size 1.25 1) (thickness 0.2)))
   )
   (pad 1 thru_hole circle (at 0 0) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask))
