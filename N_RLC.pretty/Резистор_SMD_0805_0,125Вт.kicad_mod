@@ -1,6 +1,6 @@
-(module Резистор_SMD_0805_0,125Вт (layer F.Cu) (tedit 5C055B5A)
-  (fp_text reference R2 (at -3 0) (layer F.SilkS)
-    (effects (font (size 2 1.6) (thickness 0.3)))
+(module Резистор_SMD_0805_0,125Вт (layer F.Cu) (tedit 5C2951A1)
+  (fp_text reference R** (at -3 0) (layer F.SilkS)
+    (effects (font (size 1 1) (thickness 0.2)))
   )
   (fp_text value Резистор_0,125Вт (at 1.29 2.09) (layer F.Fab) hide
     (effects (font (size 2 1.6) (thickness 0.3)))
