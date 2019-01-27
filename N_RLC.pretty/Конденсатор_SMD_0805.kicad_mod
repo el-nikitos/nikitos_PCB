@@ -1,6 +1,6 @@
-(module Конденсатор_SMD_0805 (layer F.Cu) (tedit 5C3C74E2)
-  (fp_text reference C** (at -3.81 0) (layer F.SilkS)
-    (effects (font (size 2 1.6) (thickness 0.3)))
+(module Конденсатор_SMD_0805 (layer F.Cu) (tedit 5C4E1C45)
+  (fp_text reference C** (at 0.9 -2.1) (layer F.SilkS)
+    (effects (font (size 1 1) (thickness 0.2)))
   )
   (fp_text value Конденсатор_SMD_0805 (at 1.29 2.09) (layer F.Fab) hide
     (effects (font (size 2 1.6) (thickness 0.3)))
