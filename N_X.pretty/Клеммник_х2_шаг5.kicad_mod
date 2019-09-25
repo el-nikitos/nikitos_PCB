@@ -1,6 +1,6 @@
-(module Клеммник_х2_шаг5 (layer F.Cu) (tedit 5C2A197A)
+(module Клеммник_х2_шаг5 (layer F.Cu) (tedit 5D8A78D0)
   (fp_text reference XT** (at 2.5 -5.5) (layer F.SilkS)
-    (effects (font (size 1 1) (thickness 0.15)))
+    (effects (font (size 1 1) (thickness 0.2)))
   )
   (fp_text value Клеммник_х2_шаг5 (at 3 5.5) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
