@@ -1,4 +1,4 @@
-(module ЖК_MT-16S2H (layer F.Cu) (tedit 5F66505B)
+(module ЖК_MT-16S2H (layer F.Cu) (tedit 5F78448D)
   (fp_text reference REF** (at 75.75 -40.5) (layer F.SilkS)
     (effects (font (size 0.6 0.6) (thickness 0.15)))
   )
@@ -59,6 +59,11 @@
     (clearance 0.2))
   (model ${N_3D}/modules/MT-16S2H.stp
     (offset (xyz -4 -4 11))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
+  (model ${N_3D}/X/pbs-16.stp
+    (offset (xyz 0.9 -8.75 10))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
