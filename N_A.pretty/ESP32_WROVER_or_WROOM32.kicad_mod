@@ -1,4 +1,4 @@
-(module ESP32_WROVER_or_WROOM32 (layer F.Cu) (tedit 5DFF6B65)
+(module ESP32_WROVER_or_WROOM32 (layer F.Cu) (tedit 5FA672CA)
   (fp_text reference A** (at 16.25 -8.25) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
@@ -106,5 +106,10 @@
     (offset (xyz -0.5 -23.95 0.8))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
+  )
+  (model ${N_3D}/modules/ESP32_wroom_32.stp
+    (offset (xyz 8.449999999999999 -19.95 -1.5))
+    (scale (xyz 1 1 1))
+    (rotate (xyz -90 0 0))
   )
 )
